@@ -13,6 +13,8 @@ That can be found [here](usmle_content.md)
 ## YouTube video embed
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YMWX-EIgg-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+We need to talk about risk. 
+
 ## Secondary header
 This could be a good method for testing out documentation or tutorials for EBM stuff. I don't know about formulas though. 
 
