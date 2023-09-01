@@ -3,4 +3,4 @@ sidebar:
     children:
       - document-one
       - document-two
-      document-three
+      - document-three
