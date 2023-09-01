@@ -2,7 +2,6 @@
 id: document-one
 ---
 
-
 ### Some instructions
 
-There are things tod o here. 
+There are things to do here. 
