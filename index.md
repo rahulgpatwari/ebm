@@ -17,6 +17,8 @@ That can be found [here](usmle_content.md)
 ## YouTube video embed
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YMWX-EIgg-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+$X_i = y^3$
+
 We need to talk about risk. 
 
 ## Secondary header
