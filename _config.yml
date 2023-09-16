@@ -1,9 +1,9 @@
-remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+# remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 
-sidebar:
-  - intro
-  - label: Section One
-    children:
-      - document-one
-      - document-two
-      - document-three
+# sidebar:
+#  - intro
+#  - label: Section One
+#    children:
+#      - document-one
+#      - document-two
+#      - document-three
