@@ -11,3 +11,14 @@
 theme: jekyll-theme-minimal
 title: patwari ebm
 description: this is just a test
+
+lsi: false
+safe: true
+# source: rahulgpatwari/ebm
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
