@@ -7,3 +7,7 @@
 #      - document-one
 #      - document-two
 #      - document-three
+
+theme: jekyll-theme-minimal
+title: patwari ebm
+description: this is just a test
